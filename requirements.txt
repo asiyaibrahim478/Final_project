@@ -1,2 +1,9 @@
 streamlit
 anthropic
+requests
+beautifulsoup4
+PyPDF2
+youtube-transcript-api
+SpeechRecognition
+pydub
+lxml
