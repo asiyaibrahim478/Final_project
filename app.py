@@ -15,7 +15,8 @@ st.markdown("""
     <style>
     /* Main background */
     .stApp {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: #ffffff;
+
     }
     
     /* Sidebar styling */
@@ -257,13 +258,4 @@ with tab5:
 
 st.markdown('</div>', unsafe_allow_html=True)
 
-# Footer
-st.markdown("---")
-st.markdown(
-    """
-    <div style="text-align: center; color: white; padding: 1rem;">
-        <p>Made with ❤️ using Streamlit and Claude AI</p>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+
